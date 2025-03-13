@@ -1,6 +1,7 @@
 #ifndef MESSAGES_H
 #define MESSAGES_H
 
+#include <unordered_map>
 #include <string>
 #include <vector>
 #include <mutex>
